@@ -36,7 +36,7 @@ function createHeart() {
 
 document.getElementById('yesButton').addEventListener('click', function () {
     // Optional: show a sweet popup
-    alert("You just made my day ❤️");
+    alert("This means everything to me. I promise to cherish you, always. 💫");
 
     // Redirect to the yes.html page
     window.location.href = "https://forms.gle/mLaSYujEcA8SJ3ua9";
