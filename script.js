@@ -34,6 +34,16 @@ function createHeart() {
     }, 6000);
 }
 
+document.getElementById('yesButton').addEventListener('click', function () {
+    // Optional: show a sweet popup
+    alert("You just made my day ❤️");
+
+    // Redirect to the yes.html page
+    window.location.href = "yes.html";
+});
+
+
+
 setInterval(createHeart, 300);
 
     window.addEventListener("scroll", onScroll);
