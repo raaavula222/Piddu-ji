@@ -39,7 +39,7 @@ document.getElementById('yesButton').addEventListener('click', function () {
     alert("You just made my day ❤️");
 
     // Redirect to the yes.html page
-    window.location.href = "yes.html";
+    window.location.href = "https://forms.gle/mLaSYujEcA8SJ3ua9";
 });
 
 
